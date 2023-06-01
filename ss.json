@@ -1,9 +1,8 @@
 {
     "ads" : [
         {
-            "demo" : "true",
-            "activate_ads" : "false",
-            "activate_ads_game" : "true",
+            "update_app" : false,
+            "activate_ads" : false,
             "activate_banner" : "on",
             "activate_inter" : "on",
             
@@ -32,7 +31,7 @@
             "fan_int": "2455443151275039_2455451494607538",
             "fan_rewarded": "2455443151275039_2455451697940851",
 
-            "iron_key": "188772305",
+            "iron_key": "1767d8925",
             "iron_ban" : "DefaultBanner",
             "iron_int" : "DefaultInterstitial",
             "iron_rewarded" : "DefaultRewardedVideo",
@@ -42,7 +41,7 @@
 
             "ad_score_amount" : 1,
             "ad_game_minutes" : 1,
-            "ad_int_interval" : 1,
+            "ad_int_interval" : 4,
             "score_rating_reward" : 3,
 
             "orientation": "landscape",
