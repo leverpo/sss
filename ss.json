@@ -1,7 +1,7 @@
 {
     "ads" : [
         {
-            "update_app" : true,
+            "update_app" : false,
             "activate_ads" : true,
             "activate_banner" : "on",
             "activate_inter" : "on",
